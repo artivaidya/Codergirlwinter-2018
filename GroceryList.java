@@ -7,15 +7,15 @@ public class GroceryList {
 	System.out.print("Item 1? ");
         Scanner keyboard = new Scanner(System.in);
 
-        String item1Name= keyboard.next();
+        String item1Name= keyboard.nextLine();
 
         System.out.print("Item 2? ");
 
-        String item2Name= keyboard.next();
+        String item2Name= keyboard.nextLine();
 
         System.out.print("Item 3? ");
 
-        String item3Name= keyboard.next();
+        String item3Name= keyboard.nextLine();
 
 System.out.println("Now, please enter the quantity of each item.");
 System.out.print("How many milk? ");
