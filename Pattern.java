@@ -1,4 +1,4 @@
-package JavaPractise;
+//package JavaPractise;
 
 public class Pattern {
 

@@ -1,4 +1,4 @@
-package Microblog;
+//package Microblog;
 
 public class User {
     private String avatarUrl;
