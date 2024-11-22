@@ -6,7 +6,8 @@ public class newClass {
 int i=10;
 int j= 20;
 int z=i+j;
-System.out.println(z);
+System.out.println("aading two number" + z);
+
 
 	}
 
